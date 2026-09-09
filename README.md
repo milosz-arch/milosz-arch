@@ -12,5 +12,7 @@ Most recruiters buy AI tooling. I write mine: agents that map a market, draft ou
 
 - Recruitment workflows built as Claude Code skills and plugins, including a training course that takes a recruiter from zero to running these workflows themselves
 - A fully automated video pipeline: an agent pulls stories, rewrites them, generates the voiceover through ElevenLabs and assembles the clip. It earns nothing and keeps my automation sharp
+- WhatWhat(ch) gamified app solving biggest couples issue in the world! What are we gonna watch this weekend? ;)
+- Project of deterministic AI workflows validation 
 
 Based in Ghent, Belgium. Polish and English. [LinkedIn](https://linkedin.com/in/startupislove)
